@@ -72,7 +72,12 @@ Gold-Mining-Data-Analysis
 ```
 
 ---
+## Files Included
 
+- Drillhole datasets (Collar, Survey, Geology, Sample)
+- Jupyter Notebook for analysis
+- Power BI dashboard screenshot
+- Final project report
 ## Author
 
 **Mohamed Wael El-Shehawy**  
