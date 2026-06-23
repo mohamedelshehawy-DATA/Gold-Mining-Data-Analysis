@@ -76,7 +76,7 @@ Gold-Mining-Data-Analysis
 
 - Drillhole datasets (Collar, Survey, Geology, Sample)
 - Jupyter Notebook for analysis
-- Power BI dashboard screenshot
+- Power BI dashboard 
 - Final project report
 ## Author
 
