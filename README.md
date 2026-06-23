@@ -7,6 +7,9 @@ This project analyzes gold exploration and mining datasets to understand mineral
 The project combines geology domain knowledge with data analysis techniques using Python, Excel, and visualization tools.
 
 ---
+## Dashboard Preview
+
+![Gold Mining Dashboard](visuals/gold%20anaylsis.png)
 
 ## Business Problem
 
